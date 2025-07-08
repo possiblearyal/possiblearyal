@@ -9,8 +9,8 @@
 <img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Echoinbyte | Sambhav Aryal's Coding" />
 
 ### 👨‍💻 About Me:
-- 🔭 Currently building **MainRoad Web App**
-- 🌱 Diving deep into **Three.js** & web-based 3D magic
+- 🔭 Currently building **NepLoom**
+- 🌱 Diving deep into **Postgresql** & **Figma**
 - 💬 Ask me anything about **Next.js, TypeScript, MongoDB**
 - 📫 Email? Just whisper to: `echoinbyte@gmail.com`
 - ⚡ Fun Fact: I’m 16 but GitHub thinks I’m 18 (Age restrictions made me evolve early 😅)
@@ -52,8 +52,8 @@
 ---
 
 ### 🧠 Currently Thinking About:
-> “How to blend design, functionality, and speed into one line of code.”  
-> — Echo
+> “How to make Echo”  
+> — Echoinbytes
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

@@ -12,7 +12,7 @@
 - 🔭 Currently building **NepLoom**
 - 🌱 Diving deep into **Postgresql** & **Figma**
 - 💬 Ask me anything about **Next.js, TypeScript, MongoDB**
-- 📫 Email? Just whisper to: `echoinbyte@gmail.com`
+- 📫 Email? Just whisper to: `info@neploom.com` or `auth@neploom.com`
 - ⚡ Fun Fact: I’m 16 but GitHub thinks I’m 18 (Age restrictions made me evolve early 😅)
 
 ---

@@ -10,8 +10,7 @@
 ### About Me:
 - Currently building **TOP SECRET PROJECT**
 - Diving deep into **AI** and **Graphic Designing**
-- If you care, ask me about **Html, Css, Javascript, Typescript, Node.js, Express.js, MongoDB, React, Next.js, Postgresql, Threejs, GSAP, Animejs**
-- Want to mail me? `info@neploom.com` or `auth@neploom.com`
+- Want to mail me? `sambhav@neploom.com` or `info@neploom.com`
 - Fun Fact: I’m 17 but GitHub thinks I’m 18
 
 ---
@@ -45,7 +44,7 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoinbyte&layout=compact&theme=tokyonight" alt="Echoinbyte | Sambhav Aryal's Github Language Preferences" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=possiblearyal&layout=compact&theme=tokyonight" alt="Possible | Sambhav Aryal's Github Language Preferences" />
 </p>
 
 ---
@@ -56,7 +55,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<p align="center">Thanks for stopping by 🚀 Let’s build something awesome!</p>

@@ -32,7 +32,7 @@
 
 <p align="left">
 <img 
-  src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,materialui,threejs,d3,nodejs,express,mongodb,postgres,redis,supabase,appwrite,regex,jest,git,npm,postman,vercel,netlify,vscode,webstorm,figma,xd,ae,ai,blender,unity,unreal,notion,linkedin,gmail,discordjs,latex" 
+  src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,python,tailwind,tensorflow,tauri,electron,threejs,d3,nodejs,express,mongodb,postgres,redis,prisma,graphql,supabase,pytorch,wasm,bootstrap,materialui,appwrite,regex,redux,jest,svg,git,npm,kafka,postman,docker,vercel,netlify,figma,xd,ae,ai,blender,unity,unreal,md,gmail,latex" 
   alt="Echoinbyte | Sambhav Aryal's Skills" 
 />
 

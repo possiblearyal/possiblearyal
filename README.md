@@ -9,9 +9,9 @@
 
 ### About Me:
 - Currently building **TOP SECRET PROJECT**
-- Diving deep into **AI** and **Graphic Designing**
+- Diving deep into **AI** and **DSA**
 - Want to mail me? `sambhav@neploom.com` or `info@neploom.com`
-- Fun Fact: I’m 17 but GitHub thinks I’m 18
+- Fun Fact: I’m 17, but GitHub thinks I’m 18
 
 ---
 
@@ -33,7 +33,7 @@
 <p align="left">
 <img 
   src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,python,tailwind,tensorflow,tauri,electron,threejs,d3,nodejs,express,mongodb,postgres,redis,prisma,graphql,supabase,pytorch,wasm,bootstrap,materialui,appwrite,regex,redux,jest,svg,git,npm,kafka,postman,docker,vercel,netlify,figma,xd,ae,ai,blender,unity,unreal,md,gmail,latex" 
-  alt="Echoinbyte | Sambhav Aryal's Skills" 
+  alt="Echoinbyte | Sambhav Aryal's Skills." 
 />
 
 
